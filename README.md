@@ -1,4 +1,4 @@
-# avocado_analytics
+# Avocado Analytics 🥑
 
 Um dashboard usando um conjunto de dados de vendas e preços de abacates nos Estados Unidos entre 2015 e 2018 do 
 [Hass Avocado Board](https://hassavocadoboard.com/).
